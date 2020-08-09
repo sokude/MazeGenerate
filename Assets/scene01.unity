@@ -234,7 +234,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5aeb7f15efa685649af6891ca937cf52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  size: {x: 5, y: 5}
+  size: {x: 11, y: 11}
   cube: {fileID: 4587600784040636, guid: f6237f5d4a272c346a5064735fa111dc, type: 3}
 --- !u!4 &1622973851
 Transform:

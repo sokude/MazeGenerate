@@ -300,7 +300,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 912696cb915df404fb714b6ae6e6ae4e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  size: {x: 7, y: 7}
+  size: {x: 11, y: 11}
   cube: {fileID: 4587600784040636, guid: f6237f5d4a272c346a5064735fa111dc, type: 3}
   lineobj: {fileID: 8721813042922956710}
 --- !u!4 &1622973851
